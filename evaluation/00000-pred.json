@@ -1,0 +1,2621 @@
+{
+    "layout": [
+        [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ],
+        [
+            14,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+        [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+        ],
+        [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+        ],
+        [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+        ],
+        [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+        ],
+        [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+        ],
+        [
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68
+        ],
+        [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+        ]
+    ],
+    "cells": [
+        {
+            "bbox": [
+                2,
+                2,
+                60,
+                20
+            ],
+            "segmentation": [
+                [
+                    [
+                        60,
+                        2
+                    ],
+                    [
+                        60,
+                        20
+                    ],
+                    [
+                        2,
+                        20
+                    ],
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 0,
+            "col_end_idx": 0,
+            "row_end_idx": 0,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                60,
+                2,
+                168,
+                20
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        2
+                    ],
+                    [
+                        168,
+                        20
+                    ],
+                    [
+                        60,
+                        20
+                    ],
+                    [
+                        60,
+                        2
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 0,
+            "col_end_idx": 1,
+            "row_end_idx": 0,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                2,
+                240,
+                20
+            ],
+            "segmentation": [
+                [
+                    [
+                        237,
+                        2
+                    ],
+                    [
+                        240,
+                        20
+                    ],
+                    [
+                        168,
+                        20
+                    ],
+                    [
+                        168,
+                        2
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 0,
+            "col_end_idx": 2,
+            "row_end_idx": 0,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                237,
+                2,
+                328,
+                20
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        2
+                    ],
+                    [
+                        326,
+                        20
+                    ],
+                    [
+                        240,
+                        20
+                    ],
+                    [
+                        237,
+                        2
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 0,
+            "col_end_idx": 3,
+            "row_end_idx": 0,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                326,
+                2,
+                412,
+                20
+            ],
+            "segmentation": [
+                [
+                    [
+                        412,
+                        2
+                    ],
+                    [
+                        412,
+                        20
+                    ],
+                    [
+                        326,
+                        20
+                    ],
+                    [
+                        328,
+                        2
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 0,
+            "col_end_idx": 4,
+            "row_end_idx": 0,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                412,
+                2,
+                500,
+                20
+            ],
+            "segmentation": [
+                [
+                    [
+                        497,
+                        2
+                    ],
+                    [
+                        500,
+                        20
+                    ],
+                    [
+                        412,
+                        20
+                    ],
+                    [
+                        412,
+                        2
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 0,
+            "col_end_idx": 5,
+            "row_end_idx": 0,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                497,
+                2,
+                582,
+                20
+            ],
+            "segmentation": [
+                [
+                    [
+                        582,
+                        2
+                    ],
+                    [
+                        581,
+                        19
+                    ],
+                    [
+                        500,
+                        20
+                    ],
+                    [
+                        497,
+                        2
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 0,
+            "col_end_idx": 6,
+            "row_end_idx": 0,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                20,
+                63,
+                44
+            ],
+            "segmentation": [
+                [
+                    [
+                        60,
+                        20
+                    ],
+                    [
+                        63,
+                        43
+                    ],
+                    [
+                        2,
+                        44
+                    ],
+                    [
+                        2,
+                        20
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 1,
+            "col_end_idx": 0,
+            "row_end_idx": 1,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                60,
+                20,
+                168,
+                44
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        20
+                    ],
+                    [
+                        168,
+                        44
+                    ],
+                    [
+                        63,
+                        43
+                    ],
+                    [
+                        60,
+                        20
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 1,
+            "col_end_idx": 1,
+            "row_end_idx": 1,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                20,
+                240,
+                44
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        20
+                    ],
+                    [
+                        240,
+                        44
+                    ],
+                    [
+                        168,
+                        44
+                    ],
+                    [
+                        168,
+                        20
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 1,
+            "col_end_idx": 2,
+            "row_end_idx": 1,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                20,
+                328,
+                44
+            ],
+            "segmentation": [
+                [
+                    [
+                        326,
+                        20
+                    ],
+                    [
+                        328,
+                        44
+                    ],
+                    [
+                        240,
+                        44
+                    ],
+                    [
+                        240,
+                        20
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 1,
+            "col_end_idx": 3,
+            "row_end_idx": 1,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                326,
+                20,
+                413,
+                44
+            ],
+            "segmentation": [
+                [
+                    [
+                        412,
+                        20
+                    ],
+                    [
+                        413,
+                        44
+                    ],
+                    [
+                        328,
+                        44
+                    ],
+                    [
+                        326,
+                        20
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 1,
+            "col_end_idx": 4,
+            "row_end_idx": 1,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                412,
+                20,
+                500,
+                44
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        20
+                    ],
+                    [
+                        498,
+                        43
+                    ],
+                    [
+                        413,
+                        44
+                    ],
+                    [
+                        412,
+                        20
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 1,
+            "col_end_idx": 5,
+            "row_end_idx": 1,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                498,
+                19,
+                581,
+                44
+            ],
+            "segmentation": [
+                [
+                    [
+                        581,
+                        19
+                    ],
+                    [
+                        580,
+                        44
+                    ],
+                    [
+                        498,
+                        43
+                    ],
+                    [
+                        500,
+                        20
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 1,
+            "col_end_idx": 6,
+            "row_end_idx": 1,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                43,
+                64,
+                92
+            ],
+            "segmentation": [
+                [
+                    [
+                        63,
+                        43
+                    ],
+                    [
+                        64,
+                        68
+                    ],
+                    [
+                        64,
+                        88
+                    ],
+                    [
+                        2,
+                        92
+                    ],
+                    [
+                        2,
+                        68
+                    ],
+                    [
+                        2,
+                        44
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 2,
+            "col_end_idx": 0,
+            "row_end_idx": 3,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                63,
+                43,
+                168,
+                68
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        44
+                    ],
+                    [
+                        168,
+                        68
+                    ],
+                    [
+                        64,
+                        68
+                    ],
+                    [
+                        63,
+                        43
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 2,
+            "col_end_idx": 1,
+            "row_end_idx": 2,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                44,
+                240,
+                68
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        44
+                    ],
+                    [
+                        240,
+                        68
+                    ],
+                    [
+                        168,
+                        68
+                    ],
+                    [
+                        168,
+                        44
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 2,
+            "col_end_idx": 2,
+            "row_end_idx": 2,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                44,
+                328,
+                68
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        44
+                    ],
+                    [
+                        328,
+                        68
+                    ],
+                    [
+                        240,
+                        68
+                    ],
+                    [
+                        240,
+                        44
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 2,
+            "col_end_idx": 3,
+            "row_end_idx": 2,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                44,
+                413,
+                68
+            ],
+            "segmentation": [
+                [
+                    [
+                        413,
+                        44
+                    ],
+                    [
+                        412,
+                        68
+                    ],
+                    [
+                        328,
+                        68
+                    ],
+                    [
+                        328,
+                        44
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 2,
+            "col_end_idx": 4,
+            "row_end_idx": 2,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                412,
+                43,
+                500,
+                68
+            ],
+            "segmentation": [
+                [
+                    [
+                        498,
+                        43
+                    ],
+                    [
+                        500,
+                        68
+                    ],
+                    [
+                        412,
+                        68
+                    ],
+                    [
+                        413,
+                        44
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 2,
+            "col_end_idx": 5,
+            "row_end_idx": 2,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                498,
+                43,
+                580,
+                68
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        44
+                    ],
+                    [
+                        580,
+                        68
+                    ],
+                    [
+                        500,
+                        68
+                    ],
+                    [
+                        498,
+                        43
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 2,
+            "col_end_idx": 6,
+            "row_end_idx": 2,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                64,
+                68,
+                168,
+                88
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        68
+                    ],
+                    [
+                        168,
+                        88
+                    ],
+                    [
+                        64,
+                        88
+                    ],
+                    [
+                        64,
+                        68
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 3,
+            "col_end_idx": 1,
+            "row_end_idx": 3,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                68,
+                240,
+                88
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        68
+                    ],
+                    [
+                        240,
+                        88
+                    ],
+                    [
+                        168,
+                        88
+                    ],
+                    [
+                        168,
+                        68
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 3,
+            "col_end_idx": 2,
+            "row_end_idx": 3,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                68,
+                328,
+                88
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        68
+                    ],
+                    [
+                        328,
+                        88
+                    ],
+                    [
+                        240,
+                        88
+                    ],
+                    [
+                        240,
+                        68
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 3,
+            "col_end_idx": 3,
+            "row_end_idx": 3,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                68,
+                412,
+                88
+            ],
+            "segmentation": [
+                [
+                    [
+                        412,
+                        68
+                    ],
+                    [
+                        412,
+                        88
+                    ],
+                    [
+                        328,
+                        88
+                    ],
+                    [
+                        328,
+                        68
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 3,
+            "col_end_idx": 4,
+            "row_end_idx": 3,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                412,
+                68,
+                500,
+                88
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        68
+                    ],
+                    [
+                        500,
+                        88
+                    ],
+                    [
+                        412,
+                        88
+                    ],
+                    [
+                        412,
+                        68
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 3,
+            "col_end_idx": 5,
+            "row_end_idx": 3,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                68,
+                580,
+                88
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        68
+                    ],
+                    [
+                        580,
+                        88
+                    ],
+                    [
+                        500,
+                        88
+                    ],
+                    [
+                        500,
+                        68
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 3,
+            "col_end_idx": 6,
+            "row_end_idx": 3,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                88,
+                64,
+                112
+            ],
+            "segmentation": [
+                [
+                    [
+                        64,
+                        88
+                    ],
+                    [
+                        64,
+                        112
+                    ],
+                    [
+                        2,
+                        112
+                    ],
+                    [
+                        2,
+                        92
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 4,
+            "col_end_idx": 0,
+            "row_end_idx": 4,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                64,
+                88,
+                168,
+                112
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        88
+                    ],
+                    [
+                        168,
+                        112
+                    ],
+                    [
+                        64,
+                        112
+                    ],
+                    [
+                        64,
+                        88
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 4,
+            "col_end_idx": 1,
+            "row_end_idx": 4,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                88,
+                240,
+                112
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        88
+                    ],
+                    [
+                        240,
+                        112
+                    ],
+                    [
+                        168,
+                        112
+                    ],
+                    [
+                        168,
+                        88
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 4,
+            "col_end_idx": 2,
+            "row_end_idx": 4,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                88,
+                328,
+                112
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        88
+                    ],
+                    [
+                        328,
+                        112
+                    ],
+                    [
+                        240,
+                        112
+                    ],
+                    [
+                        240,
+                        88
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 4,
+            "col_end_idx": 3,
+            "row_end_idx": 4,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                88,
+                412,
+                112
+            ],
+            "segmentation": [
+                [
+                    [
+                        412,
+                        88
+                    ],
+                    [
+                        412,
+                        112
+                    ],
+                    [
+                        328,
+                        112
+                    ],
+                    [
+                        328,
+                        88
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 4,
+            "col_end_idx": 4,
+            "row_end_idx": 4,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                412,
+                88,
+                500,
+                112
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        88
+                    ],
+                    [
+                        500,
+                        112
+                    ],
+                    [
+                        412,
+                        112
+                    ],
+                    [
+                        412,
+                        88
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 4,
+            "col_end_idx": 5,
+            "row_end_idx": 4,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                88,
+                580,
+                112
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        88
+                    ],
+                    [
+                        580,
+                        112
+                    ],
+                    [
+                        500,
+                        112
+                    ],
+                    [
+                        500,
+                        88
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 4,
+            "col_end_idx": 6,
+            "row_end_idx": 4,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                112,
+                64,
+                132
+            ],
+            "segmentation": [
+                [
+                    [
+                        64,
+                        112
+                    ],
+                    [
+                        64,
+                        132
+                    ],
+                    [
+                        2,
+                        132
+                    ],
+                    [
+                        2,
+                        112
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 5,
+            "col_end_idx": 0,
+            "row_end_idx": 5,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                64,
+                112,
+                168,
+                132
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        112
+                    ],
+                    [
+                        168,
+                        132
+                    ],
+                    [
+                        64,
+                        132
+                    ],
+                    [
+                        64,
+                        112
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 5,
+            "col_end_idx": 1,
+            "row_end_idx": 5,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                112,
+                240,
+                132
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        112
+                    ],
+                    [
+                        240,
+                        132
+                    ],
+                    [
+                        168,
+                        132
+                    ],
+                    [
+                        168,
+                        112
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 5,
+            "col_end_idx": 2,
+            "row_end_idx": 5,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                112,
+                328,
+                132
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        112
+                    ],
+                    [
+                        328,
+                        132
+                    ],
+                    [
+                        240,
+                        132
+                    ],
+                    [
+                        240,
+                        112
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 5,
+            "col_end_idx": 3,
+            "row_end_idx": 5,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                112,
+                412,
+                132
+            ],
+            "segmentation": [
+                [
+                    [
+                        412,
+                        112
+                    ],
+                    [
+                        412,
+                        132
+                    ],
+                    [
+                        328,
+                        132
+                    ],
+                    [
+                        328,
+                        112
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 5,
+            "col_end_idx": 4,
+            "row_end_idx": 5,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                412,
+                112,
+                500,
+                132
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        112
+                    ],
+                    [
+                        500,
+                        132
+                    ],
+                    [
+                        412,
+                        132
+                    ],
+                    [
+                        412,
+                        112
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 5,
+            "col_end_idx": 5,
+            "row_end_idx": 5,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                112,
+                580,
+                132
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        112
+                    ],
+                    [
+                        580,
+                        132
+                    ],
+                    [
+                        500,
+                        132
+                    ],
+                    [
+                        500,
+                        112
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 5,
+            "col_end_idx": 6,
+            "row_end_idx": 5,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                132,
+                64,
+                156
+            ],
+            "segmentation": [
+                [
+                    [
+                        64,
+                        132
+                    ],
+                    [
+                        64,
+                        156
+                    ],
+                    [
+                        2,
+                        156
+                    ],
+                    [
+                        2,
+                        132
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 6,
+            "col_end_idx": 0,
+            "row_end_idx": 6,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                64,
+                132,
+                168,
+                156
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        132
+                    ],
+                    [
+                        168,
+                        156
+                    ],
+                    [
+                        64,
+                        156
+                    ],
+                    [
+                        64,
+                        132
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 6,
+            "col_end_idx": 1,
+            "row_end_idx": 6,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                132,
+                240,
+                156
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        132
+                    ],
+                    [
+                        240,
+                        156
+                    ],
+                    [
+                        168,
+                        156
+                    ],
+                    [
+                        168,
+                        132
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 6,
+            "col_end_idx": 2,
+            "row_end_idx": 6,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                132,
+                328,
+                156
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        132
+                    ],
+                    [
+                        328,
+                        156
+                    ],
+                    [
+                        240,
+                        156
+                    ],
+                    [
+                        240,
+                        132
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 6,
+            "col_end_idx": 3,
+            "row_end_idx": 6,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                132,
+                416,
+                156
+            ],
+            "segmentation": [
+                [
+                    [
+                        412,
+                        132
+                    ],
+                    [
+                        416,
+                        156
+                    ],
+                    [
+                        328,
+                        156
+                    ],
+                    [
+                        328,
+                        132
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 6,
+            "col_end_idx": 4,
+            "row_end_idx": 6,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                412,
+                132,
+                500,
+                156
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        132
+                    ],
+                    [
+                        500,
+                        156
+                    ],
+                    [
+                        416,
+                        156
+                    ],
+                    [
+                        412,
+                        132
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 6,
+            "col_end_idx": 5,
+            "row_end_idx": 6,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                132,
+                580,
+                156
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        132
+                    ],
+                    [
+                        580,
+                        156
+                    ],
+                    [
+                        500,
+                        156
+                    ],
+                    [
+                        500,
+                        132
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 6,
+            "col_end_idx": 6,
+            "row_end_idx": 6,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                156,
+                64,
+                176
+            ],
+            "segmentation": [
+                [
+                    [
+                        64,
+                        156
+                    ],
+                    [
+                        64,
+                        176
+                    ],
+                    [
+                        2,
+                        176
+                    ],
+                    [
+                        2,
+                        156
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 7,
+            "col_end_idx": 0,
+            "row_end_idx": 7,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                64,
+                156,
+                168,
+                176
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        156
+                    ],
+                    [
+                        168,
+                        176
+                    ],
+                    [
+                        64,
+                        176
+                    ],
+                    [
+                        64,
+                        156
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 7,
+            "col_end_idx": 1,
+            "row_end_idx": 7,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                156,
+                240,
+                176
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        156
+                    ],
+                    [
+                        240,
+                        176
+                    ],
+                    [
+                        168,
+                        176
+                    ],
+                    [
+                        168,
+                        156
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 7,
+            "col_end_idx": 2,
+            "row_end_idx": 7,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                156,
+                328,
+                176
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        156
+                    ],
+                    [
+                        328,
+                        176
+                    ],
+                    [
+                        240,
+                        176
+                    ],
+                    [
+                        240,
+                        156
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 7,
+            "col_end_idx": 3,
+            "row_end_idx": 7,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                156,
+                416,
+                176
+            ],
+            "segmentation": [
+                [
+                    [
+                        416,
+                        156
+                    ],
+                    [
+                        414,
+                        175
+                    ],
+                    [
+                        328,
+                        176
+                    ],
+                    [
+                        328,
+                        156
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 7,
+            "col_end_idx": 4,
+            "row_end_idx": 7,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                414,
+                156,
+                500,
+                176
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        156
+                    ],
+                    [
+                        500,
+                        176
+                    ],
+                    [
+                        414,
+                        175
+                    ],
+                    [
+                        416,
+                        156
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 7,
+            "col_end_idx": 5,
+            "row_end_idx": 7,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                156,
+                580,
+                176
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        156
+                    ],
+                    [
+                        580,
+                        176
+                    ],
+                    [
+                        500,
+                        176
+                    ],
+                    [
+                        500,
+                        156
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 7,
+            "col_end_idx": 6,
+            "row_end_idx": 7,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                176,
+                64,
+                200
+            ],
+            "segmentation": [
+                [
+                    [
+                        64,
+                        176
+                    ],
+                    [
+                        64,
+                        200
+                    ],
+                    [
+                        2,
+                        200
+                    ],
+                    [
+                        2,
+                        176
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 8,
+            "col_end_idx": 0,
+            "row_end_idx": 8,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                64,
+                176,
+                168,
+                200
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        176
+                    ],
+                    [
+                        168,
+                        200
+                    ],
+                    [
+                        64,
+                        200
+                    ],
+                    [
+                        64,
+                        176
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 8,
+            "col_end_idx": 1,
+            "row_end_idx": 8,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                176,
+                240,
+                200
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        176
+                    ],
+                    [
+                        240,
+                        200
+                    ],
+                    [
+                        168,
+                        200
+                    ],
+                    [
+                        168,
+                        176
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 8,
+            "col_end_idx": 2,
+            "row_end_idx": 8,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                176,
+                328,
+                200
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        176
+                    ],
+                    [
+                        328,
+                        200
+                    ],
+                    [
+                        240,
+                        200
+                    ],
+                    [
+                        240,
+                        176
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 8,
+            "col_end_idx": 3,
+            "row_end_idx": 8,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                175,
+                416,
+                200
+            ],
+            "segmentation": [
+                [
+                    [
+                        414,
+                        175
+                    ],
+                    [
+                        416,
+                        200
+                    ],
+                    [
+                        328,
+                        200
+                    ],
+                    [
+                        328,
+                        176
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 8,
+            "col_end_idx": 4,
+            "row_end_idx": 8,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                414,
+                175,
+                500,
+                200
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        176
+                    ],
+                    [
+                        500,
+                        200
+                    ],
+                    [
+                        416,
+                        200
+                    ],
+                    [
+                        414,
+                        175
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 8,
+            "col_end_idx": 5,
+            "row_end_idx": 8,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                176,
+                580,
+                200
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        176
+                    ],
+                    [
+                        580,
+                        200
+                    ],
+                    [
+                        500,
+                        200
+                    ],
+                    [
+                        500,
+                        176
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 8,
+            "col_end_idx": 6,
+            "row_end_idx": 8,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                200,
+                64,
+                220
+            ],
+            "segmentation": [
+                [
+                    [
+                        64,
+                        200
+                    ],
+                    [
+                        61,
+                        219
+                    ],
+                    [
+                        2,
+                        220
+                    ],
+                    [
+                        2,
+                        200
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 9,
+            "col_end_idx": 0,
+            "row_end_idx": 9,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                61,
+                200,
+                168,
+                220
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        200
+                    ],
+                    [
+                        168,
+                        220
+                    ],
+                    [
+                        61,
+                        219
+                    ],
+                    [
+                        64,
+                        200
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 9,
+            "col_end_idx": 1,
+            "row_end_idx": 9,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                200,
+                240,
+                220
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        200
+                    ],
+                    [
+                        240,
+                        220
+                    ],
+                    [
+                        168,
+                        220
+                    ],
+                    [
+                        168,
+                        200
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 9,
+            "col_end_idx": 2,
+            "row_end_idx": 9,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                200,
+                328,
+                220
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        200
+                    ],
+                    [
+                        328,
+                        220
+                    ],
+                    [
+                        240,
+                        220
+                    ],
+                    [
+                        240,
+                        200
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 9,
+            "col_end_idx": 3,
+            "row_end_idx": 9,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                200,
+                416,
+                220
+            ],
+            "segmentation": [
+                [
+                    [
+                        416,
+                        200
+                    ],
+                    [
+                        414,
+                        220
+                    ],
+                    [
+                        328,
+                        220
+                    ],
+                    [
+                        328,
+                        200
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 9,
+            "col_end_idx": 4,
+            "row_end_idx": 9,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                414,
+                200,
+                500,
+                220
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        200
+                    ],
+                    [
+                        500,
+                        220
+                    ],
+                    [
+                        414,
+                        220
+                    ],
+                    [
+                        416,
+                        200
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 9,
+            "col_end_idx": 5,
+            "row_end_idx": 9,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                200,
+                580,
+                220
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        200
+                    ],
+                    [
+                        580,
+                        220
+                    ],
+                    [
+                        500,
+                        220
+                    ],
+                    [
+                        500,
+                        200
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 9,
+            "col_end_idx": 6,
+            "row_end_idx": 9,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                2,
+                219,
+                61,
+                240
+            ],
+            "segmentation": [
+                [
+                    [
+                        61,
+                        219
+                    ],
+                    [
+                        60,
+                        240
+                    ],
+                    [
+                        2,
+                        240
+                    ],
+                    [
+                        2,
+                        220
+                    ]
+                ]
+            ],
+            "col_start_idx": 0,
+            "row_start_idx": 10,
+            "col_end_idx": 0,
+            "row_end_idx": 10,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                60,
+                219,
+                168,
+                240
+            ],
+            "segmentation": [
+                [
+                    [
+                        168,
+                        220
+                    ],
+                    [
+                        168,
+                        240
+                    ],
+                    [
+                        60,
+                        240
+                    ],
+                    [
+                        61,
+                        219
+                    ]
+                ]
+            ],
+            "col_start_idx": 1,
+            "row_start_idx": 10,
+            "col_end_idx": 1,
+            "row_end_idx": 10,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                168,
+                220,
+                242,
+                240
+            ],
+            "segmentation": [
+                [
+                    [
+                        240,
+                        220
+                    ],
+                    [
+                        242,
+                        239
+                    ],
+                    [
+                        168,
+                        240
+                    ],
+                    [
+                        168,
+                        220
+                    ]
+                ]
+            ],
+            "col_start_idx": 2,
+            "row_start_idx": 10,
+            "col_end_idx": 2,
+            "row_end_idx": 10,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                240,
+                220,
+                328,
+                240
+            ],
+            "segmentation": [
+                [
+                    [
+                        328,
+                        220
+                    ],
+                    [
+                        328,
+                        240
+                    ],
+                    [
+                        242,
+                        239
+                    ],
+                    [
+                        240,
+                        220
+                    ]
+                ]
+            ],
+            "col_start_idx": 3,
+            "row_start_idx": 10,
+            "col_end_idx": 3,
+            "row_end_idx": 10,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                328,
+                220,
+                414,
+                240
+            ],
+            "segmentation": [
+                [
+                    [
+                        414,
+                        220
+                    ],
+                    [
+                        414,
+                        239
+                    ],
+                    [
+                        328,
+                        240
+                    ],
+                    [
+                        328,
+                        220
+                    ]
+                ]
+            ],
+            "col_start_idx": 4,
+            "row_start_idx": 10,
+            "col_end_idx": 4,
+            "row_end_idx": 10,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                414,
+                220,
+                500,
+                240
+            ],
+            "segmentation": [
+                [
+                    [
+                        500,
+                        220
+                    ],
+                    [
+                        500,
+                        240
+                    ],
+                    [
+                        414,
+                        239
+                    ],
+                    [
+                        414,
+                        220
+                    ]
+                ]
+            ],
+            "col_start_idx": 5,
+            "row_start_idx": 10,
+            "col_end_idx": 5,
+            "row_end_idx": 10,
+            "transcript": ""
+        },
+        {
+            "bbox": [
+                500,
+                220,
+                580,
+                240
+            ],
+            "segmentation": [
+                [
+                    [
+                        580,
+                        220
+                    ],
+                    [
+                        580,
+                        240
+                    ],
+                    [
+                        500,
+                        240
+                    ],
+                    [
+                        500,
+                        220
+                    ]
+                ]
+            ],
+            "col_start_idx": 6,
+            "row_start_idx": 10,
+            "col_end_idx": 6,
+            "row_end_idx": 10,
+            "transcript": ""
+        }
+    ]
+}
