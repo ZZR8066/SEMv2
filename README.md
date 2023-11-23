@@ -15,7 +15,7 @@ In this work, we adhere to the principle of the split-and-merge based methods an
 
 **iFLYTAB** collects table images of various styles from diﬀerent scenarios. Specifcally, we collect both wired and wireless tables from digital documents, and camera-captured photos.
 It is worth noting that we also hold a table structure recognition challenge based on the proposed iFLYTAB dataset, which is available at http://challenge.xfyun.cn/topic/info?type=structure. This competition is organized by the iFLYTEK company in conjunction with China Society of Image and Graphics (CSIG).
-The training set and validation set can be downloaded from the [official competition website](http://challenge.xfyun.cn/topic/info?type=structure). The annotations for the validation set are located in the `evaluation/validation_annotation` folder.
+The training set and validation set can be downloaded from [this website](https://rec.ustc.edu.cn/share/ff5e1160-89f0-11ee-9e05-79b61e968fb7). The annotations for the validation set are located in the `evaluation/validation_annotation` folder.
 
 
 ## Metric
