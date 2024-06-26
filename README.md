@@ -19,7 +19,7 @@ The training set and validation set can be downloaded from [this website](https:
 
 **iFLYTAB-DP** selects 322 images from the iFLYTAB validation dataset. To minimize the influence of visual cues such as table lines, which could assist the model’s predictions, we specifically chose images of wireless tables. Our selection criteria primarily focuses on the presence of extensive textual descriptions within the cells. The dataset IDs are aligned with iFLYTAB and stored in ML_list.txt.
 
-![image-20240626130729484](C:\Users\liush01\AppData\Roaming\Typora\typora-user-images\image-20240626130729484.png)
+![ML_sample](./images/ML_sample.png)
 
 
 ## Metric
