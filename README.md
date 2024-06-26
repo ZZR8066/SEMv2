@@ -17,7 +17,7 @@ In this work, we adhere to the principle of the split-and-merge based methods an
 It is worth noting that we also hold a table structure recognition challenge based on the proposed iFLYTAB dataset, which is available at http://challenge.xfyun.cn/topic/info?type=structure. This competition is organized by the iFLYTEK company in conjunction with China Society of Image and Graphics (CSIG).
 The training set and validation set can be downloaded from [this website](https://rec.ustc.edu.cn/share/ff5e1160-89f0-11ee-9e05-79b61e968fb7). The annotations for the validation set are located in the `evaluation/validation_annotation` folder.
 
-**iFLYTAB-DP** selects 322 images from the iFLYTAB validation dataset. To minimize the influence of visual cues such as table lines, which could assist the model’s predictions, images of wireless tables were specifically chosen. The selection criteria primarily focus on the presence of extensive textual descriptions within the cells. The dataset IDs are aligned with iFLYTAB and stored in ML_list.txt.
+**iFLYTAB-DP** selects 322 images from the iFLYTAB validation dataset. To minimize the influence of visual cues such as table lines, which could assist the model’s predictions, images of wireless tables were specifically chosen. The selection criteria primarily focus on the presence of extensive textual descriptions within the cells. The dataset IDs are aligned with iFLYTAB and stored in ML_list.txt.Thanks to the anonymous user for the annotations (updates will follow).
 
 ![ML_sample](./images/ML_sample.png)
 
